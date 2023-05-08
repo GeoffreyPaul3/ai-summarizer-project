@@ -27,8 +27,8 @@ const Hero = () => {
         <span className="orange_gradient">OpenAI GPT-4</span>
       </h1>
       <h2 className="desc">
-        Summarify is an open-source article summarizer that converts large
-        articles into clear and succinct summaries.
+        An open-source article summarizer that turns lengthy articles into
+        concise summaries.
       </h2>
     </header>
   );
